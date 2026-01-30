@@ -33,6 +33,3 @@ MySQL database to store user and transaction details
 
 JDBC for secure database connectivity
 
-MySQL database for user and transaction data
-
-JDBC for secure database connectivity
